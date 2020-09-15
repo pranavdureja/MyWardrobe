@@ -1,0 +1,39 @@
+
+.image-container{
+    width: fit-content;
+    margin: auto;
+    padding: 0px;
+    background-color: rgba(58, 57, 57, 0.521);
+    height: fit-content;
+}
+
+.container{
+    top:0;
+    width: fit-content;
+    margin: auto;
+}
+
+.container button{
+    margin-top: 6%;
+    margin-left: 20%;
+    padding: 15px;
+    width: max-content;
+}
+
+h1{
+font-family: 'Montserrat', sans-serif;
+font-size: 65px;
+color: white;
+text-shadow: 3px 3px rgb(56, 56, 56);
+width: fit-content;
+margin: auto;
+margin-top: -100px;
+margin-bottom: 20px;
+}
+
+.outfit{
+    width: 350px;
+    height: auto;
+    margin: auto;
+    border: 1px solid white;
+}

@@ -1,0 +1,15 @@
+{
+  "auth": {
+    "demo99ceca3b": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": []
+    }
+  },
+  "storage": {
+    "s309520627": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation"
+    }
+  }
+}
